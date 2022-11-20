@@ -1,0 +1,41 @@
+#a{
+
+width: 300px;
+
+
+}
+#b{
+
+width: 300px;
+
+
+}
+#c{
+
+width: 300px;
+
+
+}
+
+body{
+
+background-color: gray;
+color: white;
+}
+
+#start{
+
+background-color: white;
+color: black;
+border-radius: 80%;
+width: 60px;
+
+}
+.re{
+
+text-align: center;
+font-size: large;
+margin-top: 20px;
+color: aqua;
+background-color: black;
+}
